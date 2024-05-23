@@ -10,12 +10,12 @@
 
 #### restrictions [rɪˈstrɪk.ʃən]: hạn chế
 
-#### 
+#### essence [ˈes.əns] bản chất
 
-####
+#### examine [ɪɡˈzæm.ɪn] nghiên cứu kỹ
 
-####
+#### drasticall [drasticall]: quyết liệt
 
-####
+#### compliant [kəmˈplaɪ.ənt] tuân thủ
 
-####
+#### segregated [ˈseɡ.rə.ɡeɪ.t̬ɪd] tách biệt
