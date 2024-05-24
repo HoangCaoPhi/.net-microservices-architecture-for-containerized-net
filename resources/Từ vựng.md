@@ -19,3 +19,9 @@
 #### compliant [kəmˈplaɪ.ənt] tuân thủ
 
 #### segregated [ˈseɡ.rə.ɡeɪ.t̬ɪd] tách biệt
+
+### straightforward [ˌstreɪtˈfɔːr.wɚd] thẳng thắn, trực tiếp
+
+### precisely [prəˈsaɪs.li]: đúng
+
+### explicitly [ɪkˈsplɪsətli] rõ ràng
