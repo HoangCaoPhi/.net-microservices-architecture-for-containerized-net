@@ -20,8 +20,10 @@
 
 #### segregated [ˈseɡ.rə.ɡeɪ.t̬ɪd] tách biệt
 
-### straightforward [ˌstreɪtˈfɔːr.wɚd] thẳng thắn, trực tiếp
+### straightforward [ˌstreɪtˈfɔːr.wɚd] thẳng thắn, trực tiếp, đơn giản
 
 ### precisely [prəˈsaɪs.li]: đúng
 
 ### explicitly [ɪkˈsplɪsətli] rõ ràng
+
+### compatibility [kəmˌpæt̬.əˈbɪl.ə.t̬i] khả năng tương thích
