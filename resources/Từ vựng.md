@@ -27,3 +27,20 @@
 ### explicitly [ɪkˈsplɪsətli] rõ ràng
 
 ### compatibility [kəmˌpæt̬.əˈbɪl.ə.t̬i] khả năng tương thích
+
+### perceived [pəˈsiːv] cảm giác, nhận ra
+
+### obstacles [ˈɑːb.stə.kəl] chướng ngại
+
+### refine [rɪˈfaɪn] chắt lọc
+
+### contradict [ˌkɑːn.trəˈdɪkt] mâu thuẫn
+
+vice versa : ngược lại
+
+adhere to: tuân thủ
+
+again cite: trích dẫn lại
+
+
+
