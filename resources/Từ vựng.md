@@ -45,3 +45,5 @@ again cite: trích dẫn lại
 invariants: bất biến
 
 comprise : bao gồm
+
+instantiate: khởi tạo
