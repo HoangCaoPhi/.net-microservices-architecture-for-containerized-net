@@ -42,5 +42,6 @@ adhere to: tuân thủ
 
 again cite: trích dẫn lại
 
+invariants: bất biến
 
-
+comprise : bao gồm
