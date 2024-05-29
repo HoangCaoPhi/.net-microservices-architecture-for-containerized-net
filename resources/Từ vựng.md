@@ -50,3 +50,7 @@ instantiate: khởi tạo
 
 coincide: phù hợp
 
+guaranteed: đảm bảo
+
+Bear in mind : hãy ghi nhớ
+
