@@ -47,3 +47,6 @@ invariants: bất biến
 comprise : bao gồm
 
 instantiate: khởi tạo
+
+coincide: phù hợp
+
