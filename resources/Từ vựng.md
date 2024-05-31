@@ -54,3 +54,11 @@ guaranteed: đảm bảo
 
 Bear in mind : hãy ghi nhớ
 
+canonical : kinh điển
+
+gaps : khoảng cách
+
+
+opt out: chọn ko tham gia
+
+fragile code: mã dễ bị phá vỡ khi có thay đổi
