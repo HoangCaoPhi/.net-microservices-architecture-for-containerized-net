@@ -62,3 +62,23 @@ gaps : khoảng cách
 opt out: chọn ko tham gia
 
 fragile code: mã dễ bị phá vỡ khi có thay đổi
+
+
+violated: vi phạm 
+
+elaborate : phức tạp
+
+otherwise : nếu không thì
+
+fractions : phần nhỏ
+
+frustration: sự thất vọng
+
+proactive: chủ động
+
+evident: rõ ràng
+
+respective : tương ứng
+
+rationale : [ˌræʃ.əˈnɑːl]: lý lẽ
+
