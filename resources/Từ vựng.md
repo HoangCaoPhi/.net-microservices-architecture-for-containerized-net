@@ -82,3 +82,9 @@ respective : tương ứng
 
 rationale : [ˌræʃ.əˈnɑːl]: lý lẽ
 
+trivial : đơn giản, không đáng kẻ
+
+intrinsically : bản chất
+
+imperatives: mệnh lệnh
+
